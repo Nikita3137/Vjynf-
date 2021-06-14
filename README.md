@@ -1,6 +1,6 @@
 ## Installation
 ```bash
-pip install git+https://github.com/moritztng/prism.git
+pip install git+https://github.com/Nikita3137/Vjynf-.git
 ```
 
 ## Quickstart
