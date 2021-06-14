@@ -1,10 +1,10 @@
 ## Installation
 ```bash
-pip install git+https://github.com/moritztng/prism.git
+pip install git+https://github.com/Nikita3137/Vjynf-.git
 ```
 
 ## Quickstart
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zPlJUYNkmEllnUaZw20GFoYoDawIEtC5?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 [![Read the Docs](https://img.shields.io/badge/Read-Docs-blue?logo=read-the-docs&logoColor=white)](https://prism-style-transfer.readthedocs.io/en/latest/)
 #### Minimal Example
 ```bash
